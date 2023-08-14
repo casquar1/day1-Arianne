@@ -1,0 +1,1 @@
+This repo is for the day 1 assignment about the concept map. My group (Group 1) picked the "Computer" topic to create a concept map.
